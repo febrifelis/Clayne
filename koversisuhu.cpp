@@ -6,11 +6,7 @@ int main(){
   int menu;
   float c, r, f, k;
   
-  cout<<"Nama \t = Febri Listio\n";
-  cout<<"Kelas \t = 2KA19\n";
-  cout<<"NPM \t = 12118637\n";
-
-  while(1) {
+ while(1) {
     
     cout<<"\n------- Menu Konversi Suhu -------\n";
     cout<<"1. Konversi Celcius (c) \n";
